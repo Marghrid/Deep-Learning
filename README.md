@@ -1,4 +1,4 @@
-# Introduction to Deep Learning
+# Introduction to Deep Learning (IN2346)
 # Technical University Munich - WS 2018/19
 My solutions to the programming assignments for this course.
 
